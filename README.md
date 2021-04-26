@@ -7,3 +7,5 @@ To run the latest build, download the "Builds" folder and run the .exe file.
 
 
 ![alt text](https://github.com/dan-turner-djt/FYP-Shepherding-Algorithm-Simulation/blob/635e6ed555cfc9737e0706f8392314eb1b7902be/screenshot1.png)
+
+![alt text](https://github.com/dan-turner-djt/FYP-Shepherding-Algorithm-Simulation/blob/635e6ed555cfc9737e0706f8392314eb1b7902be/screenshot2.png)
